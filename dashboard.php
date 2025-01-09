@@ -127,10 +127,7 @@ if (!isset($_SESSION['user_id'])) {
                 <p>Lihat laporan harian/bulanan.</p>
             </div>
 
-            <div class="menu-item">
-                <a href="document.php">📊 dokumen</a>
-                <p>Lihat .</p>
-            </div>
+         
         </div>
 
         <div class="contact-section">
