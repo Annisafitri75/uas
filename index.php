@@ -52,7 +52,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Selamat Datang di Sistem Manajemen Hospital</h1>
+        <h1>Selamat Datang di Layanan Kesehatan Melalui Sistem Manajemen Rumah Sakit</h1>
         <p>Pilih menu untuk memulai</p>
         <a href="login.php" class="btn">Masuk ke Login</a>
     </div>
