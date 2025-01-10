@@ -96,7 +96,7 @@ if (!isset($_SESSION['user_id'])) {
 <body>
     <header>
         <h1>Layanan Kesehatan Sistem Manajemen Rumah Sakit</h1>
-        <p>Selamat datang, Nissa!</p>
+        <p>👋Selamat datang😊</p>
     </header>
     <nav>
         <a href="dashboard.php">Home</a>
